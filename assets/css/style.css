@@ -1,0 +1,31 @@
+
+
+h1 {
+    background-color:rgb(184, 181, 181);
+    padding: 15px;
+    font-size: 30px;
+}
+
+.card-header {
+    font-family: 'Black Ops One', cursive;
+}
+
+#wins, #losses {
+    font-family: 'Black Ops One', cursive; 
+}
+
+.card-text {
+    font-size: 17px;
+    letter-spacing: 1px;
+    background-color: rgb(184, 181, 181); 
+    padding: 10px;
+    font-family: 'Black Ops One', cursive;
+}
+
+body {
+    background-image: url(http://faces.unah.edu.hn/dca/wp-content/uploads/2016/04/textured-wallpaper-dark-background-cracks-1920x1200.jpg);
+}
+
+#random, #total {
+    background-color: rgb(128, 126, 126);
+}
