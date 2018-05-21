@@ -87,6 +87,7 @@ $(document).ready(function(){
             alert("You Matched it! BRAVO!!!");
             // executing our reset function to keep playing
             reset();
+            // empty the Total on the page
             totalDom.empty();
 
             // In case of not matching the number
