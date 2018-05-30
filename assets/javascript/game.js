@@ -23,6 +23,7 @@ $(document).ready(function(){
 
     function random(min,max) {
         return Math.floor(Math.random() * (max-min+1) + min);
+        
     };
 
     // setting images 
@@ -46,7 +47,6 @@ $(document).ready(function(){
     $("#crystal1").on("click", function(){
         total += crystal1;
         totalDom.html(total);
-
         // adding the test function everytime so it compares the number to match with the total
         test();
       
